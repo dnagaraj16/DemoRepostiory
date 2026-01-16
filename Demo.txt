@@ -3,6 +3,9 @@ hello Demo ...!
 
 new line added
 
-
+*Hello, *world*!*
+**Hello, *world*!**
+*Hello, **world**!*
+#### Hello, world!
 
 test here
